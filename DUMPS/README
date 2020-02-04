@@ -11,6 +11,5 @@ PASOS
 ******
 
 - Primeiro gerar os arquivos que representam a memoria
-- Formatar o arquivos, tirar o =
 - usar codigo tirarEspacos para deixar totalmente formatado os arquivos da memoria
 - Conveter de hex para binario
